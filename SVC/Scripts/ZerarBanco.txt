@@ -1,0 +1,41 @@
+﻿
+delete ContasAPagar
+delete comprasProduto
+delete Compras
+delete Fornecedores
+delete PagamentoDia
+delete ContasAReceber
+delete fin_abertura_caixa
+delete fin_fechamento_caixa
+delete vendaItens
+delete Vendas
+
+delete SubGrupo
+delete Grupo
+delete Marcas
+delete Vendedor
+delete Usuario 
+delete Unidades
+delete Empresa
+delete FormaPagamento
+--------------------------------
+
+DBCC CHECKIDENT (ContasAPagar, RESEED, 0)
+DBCC CHECKIDENT (comprasProduto, RESEED, 0)
+DBCC CHECKIDENT (Compras, RESEED, 0)
+DBCC CHECKIDENT (Fornecedores, RESEED, 0)
+DBCC CHECKIDENT (PagamentoDia, RESEED, 0)
+DBCC CHECKIDENT (ContasAReceber, RESEED, 0)
+DBCC CHECKIDENT (fin_abertura_caixa, RESEED, 0)
+DBCC CHECKIDENT (fin_fechamento_caixa, RESEED, 0)
+DBCC CHECKIDENT (vendaItens, RESEED, 0)
+DBCC CHECKIDENT (Vendas, RESEED, 0)
+DBCC CHECKIDENT (Cliente , RESEED, 0)
+DBCC CHECKIDENT (SubGrupo, RESEED, 0)
+DBCC CHECKIDENT (Grupo, RESEED, 0)
+DBCC CHECKIDENT (Marcas, RESEED, 0)
+DBCC CHECKIDENT ( Vendedor, RESEED, 0)
+DBCC CHECKIDENT (Usuario , RESEED, 0)
+DBCC CHECKIDENT (Unidades, RESEED, 0)
+DBCC CHECKIDENT (Empresa, RESEED, 0)
+DBCC CHECKIDENT (FormaPagamento, RESEED, 0)

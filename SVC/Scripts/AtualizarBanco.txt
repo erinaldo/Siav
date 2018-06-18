@@ -1,0 +1,194 @@
+﻿--Atualização de Versão Sistema One ERP e One PDV 
+-- Permissoes 
+--Empresa 
+
+INSERT INTO [dbo].[Empresa]
+           ([emp_razaoSocial]
+           ,[emp_nomeFantasia]
+           ,[emp_logradouro]
+           ,[emp_numero]
+           ,[emp_bairro]
+           ,[emp_cep]
+           ,[emp_cidade]
+           ,[emp_inscricaoEstadual]
+           ,[emp_cnpj]
+           ,[emp_telefone]
+           ,[emp_fax]
+           ,[emp_valorJuros]
+           ,[emp_multa]
+           ,[emp_qtdDias])
+     SELECT 
+           emp_razaoSocial
+           ,emp_nomeFantasia
+           ,emp_logradouro
+           ,emp_numero
+           ,emp_bairro
+           ,emp_cep
+           ,emp_cidade
+           ,emp_inscricaoEstadual
+           ,emp_cnpj
+           ,emp_telefone 
+           ,emp_fax
+           ,emp_valorJuros 
+           ,emp_multa
+           ,emp_qtdDias
+		   FROM MercadinhoCentral..Empresa
+
+		   GO
+Insert Into Permissao
+	(per_nome)
+	Select
+	per_nome
+	From MercadinhoCentral..Permissao
+
+go
+--Usuarios
+INSERT INTO [dbo].[Usuario]
+           ([usu_nome]
+           ,[usu_login]
+           ,[usu_senha]
+           ,[usu_status]
+           ,[per_codigo]
+           ,[emp_codigo]
+           ,[usu_email])
+    SELECT 
+           usu_nome
+           ,usu_login
+           ,usu_senha
+           ,usu_status
+           ,per_codigo
+           ,emp_codigo
+           ,usu_email
+		   From MercadinhoCentral..Usuario
+GO
+
+
+-- Categorias 
+
+Insert Into Categoria
+	(cat_descricao)
+	Select
+	cat_descricao
+	From MercadinhoCentral..Categoria
+
+--Unidade 
+
+GO
+
+Insert Into Unidades
+	(uni_descricao)
+	Select
+	uni_descricao
+	From MercadinhoCentral..Unidades
+
+--Marca 
+GO 
+
+Insert Into Marcas
+	(mar_descricao)
+	Select
+	mar_descricao
+	From MercadinhoCentral..Marcas
+
+--Grupo 
+ GO 
+
+Insert Into grupo
+	(gru_descricao)
+	Select
+	gru_descricao
+	From MercadinhoCentral..Grupo
+
+--SubGrupo 
+
+GO
+
+Insert Into Subgrupo
+	(sg_descricao)
+	Select
+	sg_descricao
+	From MercadinhoCentral..SubGrupo
+
+GO
+--Produtos
+INSERT INTO [dbo].[Produtos]
+           ([pro_nome]
+           ,[pro_quantidade]
+           ,[pro_precoCusto]
+           ,[pro_precoVenda]
+           ,[pro_categoria]
+           ,[pro_grupo]
+           ,[pro_subGrupo]
+           ,[pro_unidade]
+           ,[pro_estoqueMin]
+           ,[pro_estoqueMax]
+           ,[pro_dataCadastro]
+           ,[pro_codigoBarra]
+           ,[pro_marca]
+           ,[pro_fornecedor]
+           ,[pro_tamanho]
+           ,[pro_margem]
+           ,[pro_comissao])
+     SELECT 
+           pro_nome
+           ,pro_quantidade
+           ,pro_precoCusto
+           ,pro_precoVenda
+           ,pro_categoria
+           ,pro_grupo
+           ,pro_subGrupo
+           ,pro_unidade
+           ,pro_estoqueMin
+           ,pro_estoqueMax
+           ,pro_dataCadastro
+           ,pro_codigoBarra
+           ,pro_marca
+           ,pro_fornecedor
+           ,pro_tamanho
+           ,pro_margem
+           ,pro_comissao
+
+		   FROM MercadinhoCentral..Produtos
+GO
+--Fornecedores
+INSERT INTO [dbo].[Fornecedores]
+           ([for_razaoSocial]
+           ,[for_cnpj]
+           ,[for_ie]
+           ,[for_email]
+           ,[for_cep]
+           ,[for_logradouro]
+           ,[for_numero]
+           ,[for_complemento]
+           ,[for_bairro]
+           ,[for_cidade]
+           ,[for_telefone]
+           ,[for_fax]
+           ,[for_status]
+           ,[for_cpf]
+           ,[for_rg]
+           ,[for_tipo_fornecedor]
+           ,[for_nome]
+           ,[for_tipo])
+     SELECT 
+            for_razaoSocial
+           ,for_cnpj
+           ,for_ie
+           ,for_email
+           ,for_cep
+           ,for_logradouro
+           ,for_numero
+           ,for_complemento
+           ,for_bairro
+           ,for_cidade
+           ,for_telefone
+           ,for_fax
+           ,for_status
+           ,for_cpf
+           ,for_rg
+           ,for_tipo_fornecedor
+           ,for_nome
+           ,for_tipo
+  FROM MercadinhoCentral..Fornecedores
+
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Não insira comentários dentro dos nós abaixo-->
+<dbConfig>
+  <driver name="PGSQL">
+    <Server>192.100.100.100</Server>
+    <Port>5432</Port>
+    <User_Id>admin</User_Id>
+    <Password>12345678</Password>
+    <Database>db_pgsql</Database>
+  </driver>
+  <driver name="MSSQL">
+    <Server>192.100.100.110</Server>
+    <User_Id>admin</User_Id>
+    <Password>12345678</Password>
+    <Database>db_mssql</Database>
+  </driver>
+</dbConfig>

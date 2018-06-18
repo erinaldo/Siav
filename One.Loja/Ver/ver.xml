@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dbConfig>
+  <driver name="SQL">
+    <Server>LENOVO</Server>
+    <Database>ODPDV</Database>
+    <User>sa</User>
+    <Password>123</Password>
+  </driver>
+<dbConfig>

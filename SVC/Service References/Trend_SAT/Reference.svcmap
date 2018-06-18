@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0de33972-1346-4235-9135-d26b18af6514" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://topfox.trendsis.com.br/cliente.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Cliente.disco" MetadataType="Disco" ID="6b7a4963-7f8f-4838-9648-6603430d63ca" SourceId="1" SourceUrl="http://topfox.trendsis.com.br/Cliente.svc?disco" />
+    <MetadataFile FileName="Cliente.wsdl" MetadataType="Wsdl" ID="22f67d3c-675b-4850-9fe0-c25fc0e0b553" SourceId="1" SourceUrl="http://topfox.trendsis.com.br/Cliente.svc?wsdl" />
+    <MetadataFile FileName="Cliente.xsd" MetadataType="Schema" ID="e781d17a-8669-4cfe-b266-59562cf4d395" SourceId="1" SourceUrl="http://topfox.trendsis.com.br/Cliente.svc?xsd=xsd1" />
+    <MetadataFile FileName="Cliente1.xsd" MetadataType="Schema" ID="8b4978ae-5a30-4d10-a82a-ab4fc9eb5b13" SourceId="1" SourceUrl="http://topfox.trendsis.com.br/Cliente.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

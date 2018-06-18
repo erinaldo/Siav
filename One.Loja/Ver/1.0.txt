@@ -1,0 +1,6 @@
+﻿Versão 1.0 19/11/2016
+
+1. Mudança na validação de autenticação de acesso por cnpj e cpf 
+usuario terá que colocar o cpf ou cnpj valido no cadastro de empresa
+
+2. Terá que colocar o cpf ou cnpj no cadastro de empresa novamente pois foi tirado a mascara
