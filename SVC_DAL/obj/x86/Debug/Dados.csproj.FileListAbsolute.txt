@@ -1,0 +1,7 @@
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_DAL\bin\x86\Debug\SVC_DAL.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_DAL\bin\x86\Debug\SVC_DAL.pdb
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_DAL\bin\x86\Debug\Mono.Security.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_DAL\bin\x86\Debug\Npgsql.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_DAL\bin\x86\Debug\Npgsql.EntityFramework.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_DAL\obj\x86\Debug\SVC_DAL.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_DAL\obj\x86\Debug\SVC_DAL.pdb

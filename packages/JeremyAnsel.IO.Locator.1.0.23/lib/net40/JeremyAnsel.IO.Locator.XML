@@ -1,0 +1,501 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JeremyAnsel.IO.Locator</name>
+    </assembly>
+    <members>
+        <member name="T:JeremyAnsel.IO.Locator.ArchiveFileLocator">
+            <summary>
+            An archive file locator.
+            </summary>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.IFileLocator">
+            <summary>
+            The file locator interface.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.IFileLocator.Exists(System.String)">
+            <summary>
+            Indicates whether the specified path exists.
+            </summary>
+            <param name="path">A path.</param>
+            <returns>A boolean.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.IFileLocator.Open(System.String)">
+            <summary>
+            Open a file.
+            </summary>
+            <param name="path">A path.</param>
+            <returns>A stream.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.IFileLocator.EnumerateFiles">
+            <summary>
+            Enumerate the files.
+            </summary>
+            <returns>An enumeration.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.IFileLocator.EnumerateFiles(System.String)">
+            <summary>
+            Enumerate the files.
+            </summary>
+            <param name="root">The root path.</param>
+            <returns>An enumeration.</returns>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.ArchiveFileLocator.fileStream">
+            <summary>
+            A file stream.
+            </summary>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.ArchiveFileLocator.archive">
+            <summary>
+            an archive.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveFileLocator.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.ArchiveFileLocator"/> class.
+            </summary>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveFileLocator.#ctor(JeremyAnsel.IO.Locator.IFileLocator,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.ArchiveFileLocator"/> class.
+            </summary>
+            <param name="locator">A file locator.</param>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveFileLocator.#ctor(System.IO.Stream)">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.ArchiveFileLocator"/> class.
+            </summary>
+            <param name="root">A stream.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveFileLocator.Dispose">
+            <summary>
+            Immediately releases the unmanaged resources used by the <see cref="T:JeremyAnsel.IO.Locator.ArchiveFileLocator"/> object.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveFileLocator.Exists(System.String)">
+            <summary>
+            Indicates whether the specified path exists.
+            </summary>
+            <param name="path">A path.</param>
+            <returns>A boolean.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveFileLocator.Open(System.String)">
+            <summary>
+            Open a file.
+            </summary>
+            <param name="path">A path.</param>
+            <returns>A stream.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveFileLocator.EnumerateFiles">
+            <summary>
+            Enumerate the files.
+            </summary>
+            <returns>An enumeration.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveFileLocator.EnumerateFiles(System.String)">
+            <summary>
+            Enumerate the files.
+            </summary>
+            <param name="root">The root path.</param>
+            <returns>An enumeration.</returns>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator">
+            <summary>
+            A writable archive file locator.
+            </summary>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.IWritableFileLocator">
+            <summary>
+            The writable file locator interface.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.IWritableFileLocator.Create(System.String)">
+            <summary>
+            Create a file.
+            </summary>
+            <param name="path">A path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.IWritableFileLocator.Write(System.String,System.IO.Stream)">
+            <summary>
+            Write a file.
+            </summary>
+            <param name="path">A path.</param>
+            <param name="data">The data.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.IWritableFileLocator.WriteAll(JeremyAnsel.IO.Locator.IFileLocator)">
+            <summary>
+            Write the files from a file locator.
+            </summary>
+            <param name="locator">A file locator.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.IWritableFileLocator.WriteAll(JeremyAnsel.IO.Locator.IFileLocator,System.String)">
+            <summary>
+            Write the files from a file locator.
+            </summary>
+            <param name="locator">A file locator.</param>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.fileStream">
+            <summary>
+            A file stream.
+            </summary>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.archive">
+            <summary>
+            An archive.
+            </summary>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.keys">
+            <summary>
+            The file keys.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.#ctor(System.String,SharpCompress.Common.ArchiveType,SharpCompress.Common.CompressionType)">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator"/> class.
+            </summary>
+            <param name="root">The root path.</param>
+            <param name="archiveType">The archive type.</param>
+            <param name="compressionType">The compression type.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.#ctor(System.IO.Stream,SharpCompress.Common.ArchiveType,SharpCompress.Common.CompressionType)">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator"/> class.
+            </summary>
+            <param name="root">A stream.</param>
+            <param name="archiveType">The archive type.</param>
+            <param name="compressionType">The compression type.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.Dispose">
+            <summary>
+            Immediately releases the unmanaged resources used by the <see cref="T:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator"/> object.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.Create(System.String)">
+            <summary>
+            Create a file.
+            </summary>
+            <param name="path">A path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.Write(System.String,System.IO.Stream)">
+            <summary>
+            Write a file.
+            </summary>
+            <param name="path">A path.</param>
+            <param name="data">The data.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.WriteAll(JeremyAnsel.IO.Locator.IFileLocator)">
+            <summary>
+            Write the files from a file locator.
+            </summary>
+            <param name="locator">A file locator.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator.WriteAll(JeremyAnsel.IO.Locator.IFileLocator,System.String)">
+            <summary>
+            Write the files from a file locator.
+            </summary>
+            <param name="locator">A file locator.</param>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.FileLocatorFactory">
+            <summary>
+            A factory to create a file locator.
+            </summary>
+            <remarks>
+            The supported formats are: file system, Zip, Rar, Tar, 7Zip, GZip.
+            </remarks>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.FileLocatorFactory.Create(System.String)">
+            <summary>
+            Creates a file locator.
+            </summary>
+            <param name="root">The root path.</param>
+            <returns>A file locator.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.FileLocatorFactory.Create(JeremyAnsel.IO.Locator.IFileLocator,System.String)">
+            <summary>
+            Creates a file locator from a file locator.
+            </summary>
+            <param name="locator">The source file locator.</param>
+            <param name="root">The root path.</param>
+            <returns>A file locator.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.FileLocatorFactory.Create(System.IO.Stream)">
+            <summary>
+            Creates a file locator from a stream.
+            </summary>
+            <param name="root">A stream.</param>
+            <returns>A file locator.</returns>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.MemoryFileLocator">
+            <summary>
+            An in memory file locator.
+            </summary>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.MemoryFileLocator.database">
+            <summary>
+            The database.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.MemoryFileLocator"/> class.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.Dispose">
+            <summary>
+            Immediately releases the unmanaged resources used by the <see cref="T:JeremyAnsel.IO.Locator.MemoryFileLocator"/> object.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.Clear">
+            <summary>
+            Clears the file locator.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.Exists(System.String)">
+            <summary>
+            Indicates whether the specified path exists.
+            </summary>
+            <param name="path">A path.</param>
+            <returns>A boolean.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.Open(System.String)">
+            <summary>
+            Open a file.
+            </summary>
+            <param name="path">A path.</param>
+            <returns>A stream.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.EnumerateFiles">
+            <summary>
+            Enumerate the files.
+            </summary>
+            <returns>An enumeration.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.EnumerateFiles(System.String)">
+            <summary>
+            Enumerate the files.
+            </summary>
+            <param name="root">The root path.</param>
+            <returns>An enumeration.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.Create(System.String)">
+            <summary>
+            Create a file.
+            </summary>
+            <param name="path">A path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.Write(System.String,System.IO.Stream)">
+            <summary>
+            Write a file.
+            </summary>
+            <param name="path">A path.</param>
+            <param name="data">The data.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.WriteAll(JeremyAnsel.IO.Locator.IFileLocator)">
+            <summary>
+            Write the files from a file locator.
+            </summary>
+            <param name="locator">A file locator.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.MemoryFileLocator.WriteAll(JeremyAnsel.IO.Locator.IFileLocator,System.String)">
+            <summary>
+            Write the files from a file locator.
+            </summary>
+            <param name="locator">A file locator.</param>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="P:JeremyAnsel.IO.Locator.MemoryFileLocator.IsEmpty">
+            <summary>
+            Gets a value indicating whether the file locator is empty.
+            </summary>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.SystemFileLocator">
+            <summary>
+            A file system file locator.
+            </summary>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.SystemFileLocator.locator">
+            <summary>
+            A file locator.
+            </summary>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.SystemFileLocator.rootPath">
+            <summary>
+            The root path.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemFileLocator.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.SystemFileLocator"/> class.
+            </summary>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemFileLocator.#ctor(JeremyAnsel.IO.Locator.IFileLocator,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.SystemFileLocator"/> class.
+            </summary>
+            <param name="locator">A file locator.</param>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemFileLocator.Dispose">
+            <summary>
+            Immediately releases the unmanaged resources used by the <see cref="T:JeremyAnsel.IO.Locator.ArchiveFileLocator"/> object.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemFileLocator.Exists(System.String)">
+            <summary>
+            Indicates whether the specified path exists.
+            </summary>
+            <param name="path">A path.</param>
+            <returns>A boolean.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemFileLocator.Open(System.String)">
+            <summary>
+            Open a file.
+            </summary>
+            <param name="path">A path.</param>
+            <returns>A stream.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemFileLocator.EnumerateFiles">
+            <summary>
+            Enumerate the files.
+            </summary>
+            <returns>An enumeration.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemFileLocator.EnumerateFiles(System.String)">
+            <summary>
+            Enumerate the files.
+            </summary>
+            <param name="root">The root path.</param>
+            <returns>An enumeration.</returns>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.SystemWritableFileLocator">
+            <summary>
+            A writable file system file locator.
+            </summary>
+        </member>
+        <member name="F:JeremyAnsel.IO.Locator.SystemWritableFileLocator.rootPath">
+            <summary>
+            The root path.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemWritableFileLocator.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:JeremyAnsel.IO.Locator.SystemWritableFileLocator"/> class.
+            </summary>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemWritableFileLocator.Dispose">
+            <summary>
+            Immediately releases the unmanaged resources used by the <see cref="T:JeremyAnsel.IO.Locator.ArchiveWritableFileLocator"/> object.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemWritableFileLocator.Create(System.String)">
+            <summary>
+            Create a file.
+            </summary>
+            <param name="path">A path.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemWritableFileLocator.Write(System.String,System.IO.Stream)">
+            <summary>
+            Write a file.
+            </summary>
+            <param name="path">A path.</param>
+            <param name="data">The data.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemWritableFileLocator.WriteAll(JeremyAnsel.IO.Locator.IFileLocator)">
+            <summary>
+            Write the files from a file locator.
+            </summary>
+            <param name="locator">A file locator.</param>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.SystemWritableFileLocator.WriteAll(JeremyAnsel.IO.Locator.IFileLocator,System.String)">
+            <summary>
+            Write the files from a file locator.
+            </summary>
+            <param name="locator">A file locator.</param>
+            <param name="root">The root path.</param>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.Utilities">
+            <summary>
+            Utility methods.
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.Utilities.PathNormalize(System.String)">
+            <summary>
+            Normalizes a path.
+            </summary>
+            <param name="path">The path.</param>
+            <returns>A normalized path.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.Utilities.PathEquals(System.String,System.String)">
+            <summary>
+            Indicates whether two paths are equals.
+            </summary>
+            <param name="path1">The first path.</param>
+            <param name="path2">The second path.</param>
+            <returns>A boolean.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.Utilities.PathStartsWith(System.String,System.String)">
+            <summary>
+            Indicates whether a path starts with a specified path.
+            </summary>
+            <param name="path1">The first path.</param>
+            <param name="path2">The second path.</param>
+            <returns>A boolean.</returns>
+        </member>
+        <member name="T:JeremyAnsel.IO.Locator.WritableFileLocatorFactory">
+            <summary>
+            A factory to create a writable file locator.
+            <para>
+            The supported formats are: file system, Zip, Tar, GZip.
+            </para>
+            </summary>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.WritableFileLocatorFactory.Create(System.String)">
+            <summary>
+            Creates a writable file locator.
+            </summary>
+            <param name="root">The root path.</param>
+            <returns>A writable file locator.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.WritableFileLocatorFactory.CreateArchive(System.String,SharpCompress.Common.ArchiveType,SharpCompress.Common.CompressionType)">
+            <summary>
+            Creates a writable file locator for an archive.
+            </summary>
+            <param name="root">The root path.</param>
+            <param name="archiveType">The archive type.</param>
+            <param name="compressionType">The compression type.</param>
+            <returns>A writable file locator.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.WritableFileLocatorFactory.CreateArchive(System.String,SharpCompress.Common.ArchiveType)">
+            <summary>
+            Creates a writable file locator for an archive.
+            </summary>
+            <param name="root">The root path.</param>
+            <param name="archiveType">The archive type.</param>
+            <returns>A writable file locator.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.WritableFileLocatorFactory.CreateArchive(System.IO.Stream,SharpCompress.Common.ArchiveType,SharpCompress.Common.CompressionType)">
+            <summary>
+            Creates a writable file locator for an archive from a stream.
+            </summary>
+            <param name="root">A stream</param>
+            <param name="archiveType">The archive type.</param>
+            <param name="compressionType">The compression type.</param>
+            <returns>A writable file locator.</returns>
+        </member>
+        <member name="M:JeremyAnsel.IO.Locator.WritableFileLocatorFactory.CreateArchive(System.IO.Stream,SharpCompress.Common.ArchiveType)">
+            <summary>
+            Creates a writable file locator for an archive from a stream.
+            </summary>
+            <param name="root">A stream.</param>
+            <param name="archiveType">The archive type.</param>
+            <returns>A writable file locator.</returns>
+        </member>
+    </members>
+</doc>

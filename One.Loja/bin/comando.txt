@@ -1,0 +1,2 @@
+  delete from [Siav].[dbo].[vendaItens] where pro_codigo in (  select pro_codigo from [Siav].[dbo].[Produtos] where pro_dataCadastro < '2017-09-11')
+  delete from [Siav].[dbo].[Produtos] where pro_dataCadastro < '2017-09-11'

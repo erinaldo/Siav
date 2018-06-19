@@ -1,0 +1,18 @@
+﻿
+delete vendaItens
+delete Vendas
+Delete ContasAReceber
+delete ControleMesa
+delete MovimentoCaixa
+delete AtendimentoMesa
+delete VendasFormasDePagamento
+delete comprasProduto
+delete Compras
+delete ContasAPagar
+delete Lancamentos
+delete fin_abertura_caixa
+delete fin_fechamento_caixa
+delete Unidades
+delete marcas
+delete Categoria
+delete Produtos

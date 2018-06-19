@@ -60,6 +60,7 @@
     </Reference>
     <Reference Include="Npgsql">
       <HintPath>..\..\..\..\Documents\iYoutuber\Npgsql.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Npgsql.EntityFramework">
       <HintPath>..\..\..\..\Documents\iYoutuber\Npgsql.EntityFramework.dll</HintPath>

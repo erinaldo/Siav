@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="Quartz" publicKeyToken="f6b8c98a402cc8a4" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-2.3.3.0" newVersion="2.3.3.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="MP2032" culture="neutral" publicKeyToken="307041694a995978" />
+        <codeBase version="1.0" href="FILE://C:/Users/Developer-3/Documents/MP2032_MP-4000TH/Pacote DLL/MP2032.dll" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+  <system.serviceModel>
+    <bindings>
+      <basicHttpBinding>
+        <binding name="BasicHttpBinding_ICliente" />
+      </basicHttpBinding>
+    </bindings>
+    <client>
+      <endpoint address="http://topfox.trendsis.com.br/Cliente.svc" binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_ICliente" contract="Trend_SAT.ICliente" name="BasicHttpBinding_ICliente" />
+    </client>
+  </system.serviceModel>
+</configuration>

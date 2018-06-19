@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dbConfig>
+  <driver name="PGSQL">
+    <Server>192.100.100.100</Server>
+    <Port>5432</Port>
+    <User_Id>admin</User_Id>
+    <Password>12345678</Password>
+    <Database>db_pgsql</Database>
+  </driver>
+  <driver name="SQL">
+    <Server>LENOVO</Server>
+    <Database>ODPDV</Database>
+    <User>sa</User>
+    <Password>123</Password>
+     </driver>
+</dbConfig>

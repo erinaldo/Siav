@@ -1,0 +1,10 @@
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\bin\x86\Debug\SVC_BLL.dll.config
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\bin\x86\Debug\SVC_BLL.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\bin\x86\Debug\SVC_BLL.pdb
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\bin\x86\Debug\SVC_DAL.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\bin\x86\Debug\Npgsql.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\bin\x86\Debug\Mono.Security.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\bin\x86\Debug\SVC_DAL.pdb
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\obj\x86\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\obj\x86\Debug\SVC_BLL.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\SVC_BLL\obj\x86\Debug\SVC_BLL.pdb

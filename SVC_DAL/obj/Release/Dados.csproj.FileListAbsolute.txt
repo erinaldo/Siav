@@ -1,0 +1,9 @@
+C:\TFS\SIAV\SVC_DAL\bin\Release\SVC_DAL.dll
+C:\TFS\SIAV\SVC_DAL\bin\Release\SVC_DAL.pdb
+C:\TFS\SIAV\SVC_DAL\obj\Release\SVC_DAL.dll
+C:\TFS\SIAV\SVC_DAL\obj\Release\SVC_DAL.pdb
+C:\TFS\SIAV\SVC_DAL\obj\Release\Dados.csprojResolveAssemblyReference.cache
+C:\Users\One\Documents\SIAV\SVC_DAL\bin\Release\SVC_DAL.dll
+C:\Users\One\Documents\SIAV\SVC_DAL\bin\Release\SVC_DAL.pdb
+C:\Users\One\Documents\SIAV\SVC_DAL\obj\Release\SVC_DAL.dll
+C:\Users\One\Documents\SIAV\SVC_DAL\obj\Release\SVC_DAL.pdb

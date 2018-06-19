@@ -1,0 +1,564 @@
+C:\TFS\SIAV\One.Loja\bin\Debug\One.Loja.exe.config
+C:\TFS\SIAV\One.Loja\obj\Debug\Interop.WMPLib.dll
+C:\TFS\SIAV\One.Loja\obj\Debug\AxInterop.WMPLib.dll
+C:\TFS\SIAV\One.Loja\obj\Debug\Caixa.csproj.ResolveComReference.cache
+C:\TFS\SIAV\One.Loja\bin\Debug\One.Loja.exe
+C:\TFS\SIAV\One.Loja\bin\Debug\One.Loja.pdb
+C:\TFS\SIAV\One.Loja\bin\Debug\ACBrFramework.Net.dll
+C:\TFS\SIAV\One.Loja\bin\Debug\SIAV.exe
+C:\TFS\SIAV\One.Loja\bin\Debug\SVC_BLL.dll
+C:\TFS\SIAV\One.Loja\bin\Debug\SVC_DAL.dll
+C:\TFS\SIAV\One.Loja\bin\Debug\CrystalQuartz.Core.dll
+C:\TFS\SIAV\One.Loja\bin\Debug\Quartz.dll
+C:\TFS\SIAV\One.Loja\bin\Debug\Common.Logging.Core.dll
+C:\TFS\SIAV\One.Loja\bin\Debug\Common.Logging.dll
+C:\TFS\SIAV\One.Loja\bin\Debug\SIAV.pdb
+C:\TFS\SIAV\One.Loja\bin\Debug\SVC_BLL.pdb
+C:\TFS\SIAV\One.Loja\bin\Debug\SVC_DAL.pdb
+C:\TFS\SIAV\One.Loja\bin\Debug\ACBrFramework.Net.pdb
+C:\TFS\SIAV\One.Loja\bin\Debug\Quartz.pdb
+C:\TFS\SIAV\One.Loja\bin\Debug\Quartz.xml
+C:\TFS\SIAV\One.Loja\bin\Debug\Common.Logging.Core.pdb
+C:\TFS\SIAV\One.Loja\bin\Debug\Common.Logging.Core.xml
+C:\TFS\SIAV\One.Loja\bin\Debug\Common.Logging.pdb
+C:\TFS\SIAV\One.Loja\bin\Debug\Common.Logging.xml
+C:\TFS\SIAV\One.Loja\bin\Debug\Interop.WMPLib.dll
+C:\TFS\SIAV\One.Loja\bin\Debug\AxInterop.WMPLib.dll
+C:\TFS\SIAV\One.Loja\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmBiPDV.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Cadastros_Casa_De_Negocio.frmConsultaMovimentoCaixa.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmAberturaDeCaixa.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmDemo.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmLoadCaixa.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmLoadPDVSkincs.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.MENUS.frmLogon.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmConfiguracao.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmContasAReceberPanel.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmDesconto.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmFinalizadora__PDV.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmMenu.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmObs.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.MOVIMENTACOES.frmPDVSkin.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmPDVManager.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmQuantidade.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmQuantidadePDV.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmSangriaCaixa.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmAdicionarDinheiroCaixa_.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmClientes.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmPedidoMesa.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.FrenteDeLoja.frmPesquisarProduto.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.Suporte.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmTreeViewDebitos.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmVisualizarCupom.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.frmZerarBaseSQL.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.RELATORIOS.frm_FechamentoCaixa.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.Properties.Resources.resources
+C:\TFS\SIAV\One.Loja\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.exe
+C:\TFS\SIAV\One.Loja\obj\Debug\One.Loja.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\One.Loja.exe.config
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\One.Loja.exe
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\One.Loja.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\ACBrFramework.Net.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\SIAV.exe
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\SVC_BLL.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\SVC_DAL.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalQuartz.Core.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Quartz.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Common.Logging.Core.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Common.Logging.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\stdole.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\SIAV.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\SVC_BLL.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\SVC_DAL.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\ACBrFramework.Net.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Quartz.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Quartz.xml
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Common.Logging.Core.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Common.Logging.Core.xml
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Common.Logging.pdb
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Common.Logging.xml
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\Interop.WMPLib.dll
+C:\Users\One\Documents\SIAV\One.Loja\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\Interop.WMPLib.dll
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\Caixa.csproj.ResolveComReference.cache
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Cadastros_Casa_De_Negocio.frmConsultaMovimentoCaixa.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmAberturaDeCaixa.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmDemo.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmLoadCaixa.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmLoadPDVSkincs.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.MENUS.frmLogon.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmContasAReceberPanel.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmDesconto.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmFinalizadora__PDV.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmMenu.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmObs.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.MOVIMENTACOES.frmPDVSkin.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmPDVManager.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmQuantidade.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmQuantidadePDV.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmSangriaCaixa.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmAdicionarDinheiroCaixa_.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmClientes.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmPedidoMesa.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.FrenteDeLoja.frmPesquisarProduto.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.Suporte.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmTreeViewDebitos.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.frmVisualizarCupom.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.RELATORIOS.frm_FechamentoCaixa.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.Properties.Resources.resources
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.exe
+C:\Users\One\Documents\SIAV\One.Loja\obj\Debug\One.Loja.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe.config
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\Interop.WMPLib.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csproj.ResolveComReference.cache
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.exe
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\ACBrFramework.Net.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\SIAV.exe
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\SVC_BLL.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\SVC_DAL.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalQuartz.Core.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Quartz.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\stdole.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\SIAV.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\SVC_BLL.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\SVC_DAL.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\ACBrFramework.Net.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Quartz.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Quartz.xml
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.xml
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.pdb
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.xml
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\Interop.WMPLib.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Cadastros_Casa_De_Negocio.frmConsultaMovimentoCaixa.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmAberturaDeCaixa.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmDemo.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmLoadCaixa.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmLoadPDVSkincs.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.MENUS.frmLogon.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmContasAReceberPanel.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmDesconto.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmFinalizadora__PDV.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmMenu.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmObs.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.MOVIMENTACOES.frmPDVSkin.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPDVManager.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmQuantidade.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmQuantidadePDV.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmSangriaCaixa.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmAdicionarDinheiroCaixa_.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmClientes.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPedidoMesa.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.FrenteDeLoja.frmPesquisarProduto.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.Suporte.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmTreeViewDebitos.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmVisualizarCupom.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.RELATORIOS.frm_FechamentoCaixa.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.Properties.Resources.resources
+C:\Users\One\Documents\SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe.config
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.pdb
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\ACBrFramework.Net.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SIAV.exe
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_BLL.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_DAL.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\CrystalQuartz.Core.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Quartz.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SIAV.pdb
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_BLL.pdb
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_DAL.pdb
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\ACBrFramework.Net.pdb
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Quartz.pdb
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Quartz.xml
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.xml
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.pdb
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.xml
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csproj.ResolveComReference.cache
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Cadastros_Casa_De_Negocio.frmConsultaMovimentoCaixa.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmAberturaDeCaixa.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmDemo.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmLoadCaixa.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmLoadPDVSkincs.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.MENUS.frmLogon.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmContasAReceberPanel.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmDesconto.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmFinalizadora__PDV.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmMenu.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmObs.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.MOVIMENTACOES.frmPDVSkin.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPDVManager.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmQuantidade.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmQuantidadePDV.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmSangriaCaixa.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmAdicionarDinheiroCaixa_.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmClientes.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPedidoMesa.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.FrenteDeLoja.frmPesquisarProduto.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.Suporte.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmTreeViewDebitos.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmVisualizarCupom.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.RELATORIOS.frm_FechamentoCaixa.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.Properties.Resources.resources
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.exe
+C:\Users\Tyago\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe.config
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Interop.WMPLib.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csproj.ResolveComReference.cache
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.exe
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\ACBrFramework.Net.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SIAV.exe
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_BLL.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_DAL.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\CrystalQuartz.Core.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Quartz.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SIAV.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_BLL.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_DAL.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\ACBrFramework.Net.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Quartz.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Quartz.xml
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.Core.xml
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.pdb
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Common.Logging.xml
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Interop.WMPLib.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Cadastros_Casa_De_Negocio.frmConsultaMovimentoCaixa.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmAberturaDeCaixa.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmDemo.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmLoadCaixa.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmLoadPDVSkincs.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.MENUS.frmLogon.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmContasAReceberPanel.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmDesconto.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmFinalizadora__PDV.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmMenu.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmObs.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.MOVIMENTACOES.frmPDVSkin.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPDVManager.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmQuantidade.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmQuantidadePDV.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmSangriaCaixa.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmAdicionarDinheiroCaixa_.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmClientes.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPedidoMesa.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.FrenteDeLoja.frmPesquisarProduto.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.Suporte.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmTreeViewDebitos.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmVisualizarCupom.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.RELATORIOS.frm_FechamentoCaixa.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.Properties.Resources.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.FrmInputCpf.resources
+C:\Users\Developer-3\Documents\Trend PDV\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\trend_bd.mdf
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\trend_bd_log.ldf
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe.config
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe.manifest
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.application
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.exe
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\One.Loja.pdb
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\ACBrFramework.Net.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SIAV.exe
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_BLL.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_DAL.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Npgsql.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Mono.Security.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SIAV.pdb
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_BLL.pdb
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\SVC_DAL.pdb
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\ACBrFramework.Net.pdb
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Npgsql.xml
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\Interop.WMPLib.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Interop.WMPLib.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csproj.ResolveComReference.cache
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.devolucao_troca.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmCancelamentoCupom.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Cadastros_Casa_De_Negocio.frmConsultaMovimentoCaixa.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmAberturaDeCaixa.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmDemo.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.FrmInputCpf.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmLoadCaixa.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmLoadPDVSkincs.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.MENUS.frmLogon.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmContasAReceberPanel.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmDesconto.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmFinalizadora__PDV.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmMenu.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmObs.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPDV.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.MOVIMENTACOES.frmPDVSkin.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPDVManager.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPDV_Finalizadora.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPDV_Mesa.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPDV_Mesa_Gerencia.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPesquisaProdutoNovo.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPromissoria.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmQuantidade.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmQuantidadePDV.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmSangriaCaixa.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmAdicionarDinheiroCaixa_.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmClientes.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmPedidoMesa.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.FrenteDeLoja.frmPesquisarProduto.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmSegundaViaCupom.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.Suporte.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmTreeViewDebitos.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frmVisualizarCupom.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.RELATORIOS.frm_FechamentoCaixa.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frm_quantidade.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frm_troca_itens.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frm_visualizar_promissoria.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.frm_visualizar_promissoria_add.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.PDVDesconto_Item.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.PesquisaProdutoNovoBalanca.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.Properties.Resources.resources
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.exe.manifest
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.application
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.exe
+C:\Users\Natanniel\Desktop\Trend_SIAV\ZFontes\One.Loja\obj\Debug\One.Loja.pdb
+C:\Projetos\Siav\One.Loja\bin\Debug\trend_bd.mdf
+C:\Projetos\Siav\One.Loja\bin\Debug\trend_bd_log.ldf
+C:\Projetos\Siav\One.Loja\bin\Debug\One.Loja.exe.config
+C:\Projetos\Siav\One.Loja\bin\Debug\One.Loja.exe.manifest
+C:\Projetos\Siav\One.Loja\bin\Debug\One.Loja.application
+C:\Projetos\Siav\One.Loja\bin\Debug\One.Loja.exe
+C:\Projetos\Siav\One.Loja\bin\Debug\One.Loja.pdb
+C:\Projetos\Siav\One.Loja\bin\Debug\ACBrFramework.Net.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\SIAV.exe
+C:\Projetos\Siav\One.Loja\bin\Debug\SVC_BLL.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\SVC_DAL.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\Npgsql.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\Mono.Security.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\SIAV.pdb
+C:\Projetos\Siav\One.Loja\bin\Debug\SVC_BLL.pdb
+C:\Projetos\Siav\One.Loja\bin\Debug\SVC_DAL.pdb
+C:\Projetos\Siav\One.Loja\bin\Debug\ACBrFramework.Net.pdb
+C:\Projetos\Siav\One.Loja\bin\Debug\Npgsql.xml
+C:\Projetos\Siav\One.Loja\bin\Debug\de\Npgsql.resources.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\es\Npgsql.resources.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\fi\Npgsql.resources.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\fr\Npgsql.resources.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\ja\Npgsql.resources.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\Interop.WMPLib.dll
+C:\Projetos\Siav\One.Loja\bin\Debug\AxInterop.WMPLib.dll
+C:\Projetos\Siav\One.Loja\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Projetos\Siav\One.Loja\obj\Debug\Interop.WMPLib.dll
+C:\Projetos\Siav\One.Loja\obj\Debug\AxInterop.WMPLib.dll
+C:\Projetos\Siav\One.Loja\obj\Debug\Caixa.csproj.ResolveComReference.cache
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.devolucao_troca.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmCancelamentoCupom.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Cadastros_Casa_De_Negocio.frmConsultaMovimentoCaixa.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmAberturaDeCaixa.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmDemo.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.FrmInputCpf.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmLoadCaixa.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmLoadPDVSkincs.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.MENUS.frmLogon.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmContasAReceberPanel.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmDesconto.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmFinalizadora__PDV.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmMenu.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmObs.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmPDV.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.MOVIMENTACOES.frmPDVSkin.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmPDVManager.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmPDV_Finalizadora.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmPDV_Mesa.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmPDV_Mesa_Gerencia.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmPesquisaProdutoNovo.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmPromissoria.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmQuantidade.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmQuantidadePDV.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmSangriaCaixa.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmAdicionarDinheiroCaixa_.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmClientes.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmPedidoMesa.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.FrenteDeLoja.frmPesquisarProduto.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmSegundaViaCupom.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.Suporte.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmTreeViewDebitos.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frmVisualizarCupom.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.RELATORIOS.frm_FechamentoCaixa.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frm_quantidade.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frm_troca_itens.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frm_visualizar_promissoria.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.frm_visualizar_promissoria_add.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.PDVDesconto_Item.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.PesquisaProdutoNovoBalanca.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.Properties.Resources.resources
+C:\Projetos\Siav\One.Loja\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.exe.manifest
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.application
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.exe
+C:\Projetos\Siav\One.Loja\obj\Debug\One.Loja.pdb
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\trend_bd.mdf
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\trend_bd_log.ldf
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\One.Loja.exe.config
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\One.Loja.exe.manifest
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\One.Loja.application
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\One.Loja.exe
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\One.Loja.pdb
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\ACBrFramework.Net.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\SIAV.exe
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\SVC_BLL.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\SVC_DAL.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\Npgsql.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\FlashControlV71.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\Mono.Security.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\stdole.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\SIAV.pdb
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\SIAV.exe.config
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\SVC_BLL.pdb
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\SVC_BLL.dll.config
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\SVC_DAL.pdb
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\ACBrFramework.Net.pdb
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\Npgsql.xml
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\Interop.WMPLib.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\Caixa.csprojAssemblyReference.cache
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\Interop.WMPLib.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\Caixa.csproj.ResolveComReference.cache
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.devolucao_troca.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmCancelamentoCupom.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Cadastros_Casa_De_Negocio.frmConsultaMovimentoCaixa.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmAberturaDeCaixa.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmDemo.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.FrmInputCpf.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmLoadCaixa.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmLoadPDVSkincs.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.MENUS.frmLogon.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmContasAReceberPanel.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmDesconto.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmFinalizadora__PDV.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmMenu.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmObs.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmPDV.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.MOVIMENTACOES.frmPDVSkin.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmPDVManager.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmPDV_Finalizadora.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmPDV_Mesa.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmPDV_Mesa_Gerencia.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmPesquisaProdutoNovo.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmPromissoria.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmQuantidade.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmQuantidadePDV.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmSangriaCaixa.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmAdicionarDinheiroCaixa_.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmClientes.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmPedidoMesa.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.FrenteDeLoja.frmPesquisarProduto.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmSegundaViaCupom.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.Suporte.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmTreeViewDebitos.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frmVisualizarCupom.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.RELATORIOS.frm_FechamentoCaixa.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frm_quantidade.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frm_troca_itens.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frm_visualizar_promissoria.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.frm_visualizar_promissoria_add.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.PDVDesconto_Item.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.PesquisaProdutoNovoBalanca.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.Properties.Resources.resources
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\Caixa.csproj.GenerateResource.cache
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\Caixa.csproj.CoreCompileInputs.cache
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.exe.manifest
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.application
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\Caixa.csproj.CopyComplete
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.exe
+C:\Users\Natanniel\Desktop\Siav\One.Loja\obj\Debug\One.Loja.pdb
